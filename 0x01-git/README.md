@@ -1,1 +1,1 @@
-“This is my github commit”
+"This is the github commit"
